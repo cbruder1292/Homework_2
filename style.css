@@ -1,0 +1,52 @@
+.navbar {
+    background-color: rgb(143, 110, 120);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.navbar-toggler{
+    background-color: rgb(53, 41, 57);
+}
+.myname {
+    color: rgb(184, 189, 218);
+    font-size: 30px;
+}
+.card {
+    margin: auto;
+}
+body {
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(94, 112, 118));
+  }
+  
+
+.card {
+    background-color: rgb(69, 73, 51);
+}
+
+.card-title {
+    font-family: 'Vidaloka', serif;
+    color: rgb(216, 216, 177);
+
+    text-align: center;
+}
+
+.card-text {
+    font-family: 'Vidaloka', serif;
+    color: rgb(216, 216, 177);
+    
+
+    text-align: center;
+}
+
+.btn-primary {
+    
+    background-color: transparent;
+    color: orange;
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+    font-family: 'Vidaloka', serif;
+    font-size: large;
+
+
+}
